@@ -24,7 +24,7 @@ Git
 
  ### Installation instruction
  
- Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+ Git clone https://github.com/Neema-Charity/code-challenge-1.git
 
  
 
